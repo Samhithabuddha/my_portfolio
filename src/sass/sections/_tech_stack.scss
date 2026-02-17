@@ -1,0 +1,27 @@
+#tech-stack {
+  background: #f9f9f9;
+  padding: 8rem 0;
+}
+
+.tech-card {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.tech-card-inner {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+  transition: 0.3s;
+}
+
+.tech-card-inner:hover {
+  transform: translateY(-5px);
+}
+
+.tech-icon {
+  font-size: 40px;
+  margin-bottom: 1rem;
+  color: #02aab0;
+}
